@@ -1,0 +1,12 @@
+{
+  "name": "react-redux-saga-template",
+  "description": "react redux saga template",
+  "repository": "",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "websocket", "react", "redux", "typescript"],
+  "env": {
+    "DOWNLOAD_URL":{
+      "description": "下載連結"
+    }
+  }
+}

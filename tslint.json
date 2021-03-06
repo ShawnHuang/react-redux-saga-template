@@ -1,0 +1,26 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended"
+    ],
+    "jsRules": {},
+    "rules": {
+        "quotemark": [
+            true,
+            "single",
+            "jsx-double"
+        ],
+        "variable-name": [
+            true,
+            "allow-leading-underscore"
+        ],
+        "object-literal-sort-keys": false,
+        "no-console": false
+    },
+    "rulesDirectory": [],
+    "linterOptions": {
+        "exclude": [
+            "**/*.json"
+        ]
+    }
+}

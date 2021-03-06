@@ -1,0 +1,16 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+	},
+	"tslint.autoFixOnSave": true,
+	"tslint.enable": true,
+	"cSpell.words": [
+		"typesafe"
+	],
+	"editor.tabSize": 2,
+	"editor.formatOnSave": false
+}
