@@ -30,9 +30,7 @@
     npm run start
     ```
 
-OK! Now you can visit http://localhost:5566 to watch slideshow or play game.
-
-Visit http://localhost:5566/admin-index.html and login(default password:happy) to control the state.
+OK! Now you can visit http://localhost:5566 to watch.
 
 # How to develop
 1. Compile typescript in watch mode: `npm run dev`
